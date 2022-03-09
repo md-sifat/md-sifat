@@ -20,10 +20,9 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  
-<a href=" " style="display:inline;"> <img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/> </a>
-<a href=" " style="display:inline;"> <img src="https://img.icons8.com/fluency/40/000000/linkedin.png"/> </a>
-<a href=" " style="display:inline;"> <img src="https://img.icons8.com/fluency/40/000000/facebook-new.png"/> </a>
+<a href="https://twitter.com/Sifat39593089 " style="display:inline;"> <img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/> </a>
+<a href="https://www.linkedin.com/in/md-sifat-608836208/ " style="display:inline;"> <img src="https://img.icons8.com/fluency/40/000000/linkedin.png"/> </a>
+<a href="https://twitter.com/Sifat39593089 " style="display:inline;"> <img src="https://img.icons8.com/fluency/40/000000/facebook-new.png"/> </a>
 
 </div>
 
