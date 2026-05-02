@@ -6,9 +6,9 @@ I specialize in developing robust backend systems with a solid foundation in dat
 
 ## 🛠️ Tech Stack
 
-* **Languages:** C/C++, JavaScript, Python, Java
-* **Frontend:** React.js, Tailwind / Bootstrap, HTML, CSS
-* **Backend:** Node.js, Express.js, Django, REST APIs, JWT
+* **Languages:** C/C++ , Js , Python , Java , Typescript , Node Js
+* **Frontend:** React.js , Next js , Tailwind / Bootstrap , HTML , CSS
+* **Backend:** Node.js , Express.js , Nest Js , REST APIs , JWT , Prisma ORM , Radis , BullMQ , MVC
 * **Databases:** MySQL, MongoDB, PostgreSQL
 * **Tools:** Git, Linux, Docker, Postman
 
@@ -19,6 +19,3 @@ I specialize in developing robust backend systems with a solid foundation in dat
 * Problem solving & core CS fundamentals
 
 ⚡ Committed to growth and crafting scalable systems.
-
-
-
