@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Md Sifat
+# Hi, I’m Md Sifat
 
 💻 **Software Engineer** | 🌐 **Backend Enthusiast**
 
-I specialize in developing robust backend systems with a solid foundation in data structures, algorithms, and system fundamentals, prioritizing performance, scalability, and clean architecture. I continuously explore new technologies to deliver reliable and meaningful software solutions.
+I'm a passionate **Software Engineer** specializing in **backend systems** with a strong foundation in data structures, algorithms, and system design. I build robust, scalable, and maintainable architectures with a constant drive to learn and ship meaningful software.
 
 ## 🛠️ Tech Stack
 
